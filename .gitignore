@@ -1,0 +1,5 @@
+config.php
+.git
+.well-known
+cgi-bin
+error_log
